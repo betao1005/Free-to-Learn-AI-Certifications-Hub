@@ -73,141 +73,10 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 
 ---
 
-### <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> Oracle
-
-**Free Training**: [Oracle University](https://www.oracle.com/education/training/ai/)
-
-**Key Certifications**:
-- 📜 [OCI 2025 Generative AI Professional](https://education.oracle.com/oracle-cloud-infrastructure-2025-generative-ai-professional/pexam_1Z0-1127-25)
-- 📜 [AI Vector Search Professional](https://education.oracle.com/oracle-ai-vector-search-professional/pexam_1Z0-184-25)
-
-**Cost**: ~$245 (often waived during promotions)
-
-**Value Proposition**: Oracle certifications are particularly valuable in enterprise database and business application contexts.
-
----
-
-### <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/> SAP
-
-**Free Training**: [SAP Learning](https://learning.sap.com/certifications)
-
-**Key Certifications**:
-- 📜 [SAP Certified Associate – SAP Generative AI Developer](https://www.mctsonlinetraining.com/2025/01/c_aig_2412-sap-certified-associate-sap-generative-ai-developer-exam/)
-
-**Cost**: Varies
-
-**Value Proposition**: Particularly valuable for business process and ERP AI integration roles.
-
----
-
-### <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"/> NVIDIA
-
-**Free Training**: [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/learn/ai-learning-essentials/)
-
-**Key Certifications**:
-- 📜 [Generative AI with LLMs Associate](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/)
-- 📜 [Accelerated Computing with CUDA](https://www.nvidia.com/en-us/training/certification/cuda-associate/)
-- 📜 [Deep Learning Institute Certificate](https://www.nvidia.com/en-us/training/online/)
-
-**Cost**: Varies ($100-$200)
-
-**Value Proposition**: NVIDIA certifications demonstrate expertise in hardware-accelerated AI and are highly respected in technical roles.
-
----
-
-## 💼 Industry Providers <a name="industry-providers"></a>
-
-### <img src="https://img.shields.io/badge/Meta-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta"/> Meta (Facebook)
-
-**Free Training**: [Meta Blueprint](https://www.pearsonvue.com/us/en/meta.html)
-
-**Key Certifications**:
-- 📜 Digital Marketing AI use cases
-
-**Cost**: $99–$150
-
-**Value Proposition**: Valuable for social media marketers and those working with Meta's AI tools.
-
----
-
-### <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/> Salesforce
-
-**Free Training**: [Trailhead AI Path](https://trailhead.salesforce.com)
-
-**Key Certifications**:
-- 📜 [AI Associate](https://trailhead.salesforce.com/credentials/aiassociate)
-- 📜 [AI Specialist](https://trailhead.salesforce.com/credentials/aispecialist)
-- 📜 [Agentforce Specialist](https://trailhead.salesforce.com/credentials/agentforcespecialist)
-
-**Cost**: Free until Dec 31, 2025; retakes $50–$100
-
-**Value Proposition**: Essential for CRM professionals and those working in sales technology.
-
----
-
-### <img src="https://img.shields.io/badge/ISACA-0077B5?style=flat-square&logoColor=white" alt="ISACA"/> ISACA
-
-**Key Certifications**:
-- 📜 [AI Fundamentals Certificate](https://www.isaca.org/credentialing/artificial-intelligence-fundamentals-certificate)
-- 📜 [Certified Artificial Intelligence Auditor (CAIA)](https://www.isaca.org/credentialing/caia)
-- 📜 [Certified Information Systems Auditor (CISA) with AI Specialization](https://www.isaca.org/credentialing/cisa)
-
-**Cost**: $120-$575
-
-**Value Proposition**: Respected in governance, risk, compliance, and AI ethics roles.
-
----
-
-### <img src="https://img.shields.io/badge/ARTiBA-FF6B6B?style=flat-square&logoColor=white" alt="ARTiBA"/> ARTiBA (AI Board of America)
-
-**Key Certifications**:
-- 📜 [Artificial Intelligence Engineer (AiE)](https://www.artiba.org/artiba-certfication-exams)
-- 📜 [AI Product Manager Certification](https://www.artiba.org/artificial-intelligence-product-manager)
-- 📜 [AI for Business Leaders](https://www.artiba.org/artificial-intelligence-business-leaders)
-
-**Cost**: Online exam; $250-$450
-
-**Value Proposition**: Industry-specific AI engineering validation covering both technical and management roles.
-
----
-
-### <img src="https://img.shields.io/badge/MSI-333333?style=flat-square&logoColor=white" alt="MSI"/> Management and Strategy Institute
-
-**Free Training**: [AI Prompting Essentials Certification](https://www.msicertified.com/free-training/ai-prompting-essentials-certification/)
-
-**Cost**: Free
-
-**Value Proposition**: Focused on practical prompt engineering skills.
-
----
-
-### <img src="https://img.shields.io/badge/Sanfoundry-2E8B57?style=flat-square&logoColor=white" alt="Sanfoundry"/> Sanfoundry
-
-**Free Training**: AI concepts, quizzes, exams
-
-**Key Certifications**: 
-- 📜 [Artificial Intelligence Certification](https://www.sanfoundry.com/artificial-intelligence-certification/)
-
-**Cost**: Free
-
-**Value Proposition**: Good entry point for beginners.
-
----
-
-### <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> OpenAI
-
-**Free Training**: [OpenAI Academy](https://academy.openai.com/) (educational materials)
-
-**Key Certifications**: Currently no formal certifications offered
-
-**Value Proposition**: Direct knowledge from a leading AI research organization.
-
----
-
 ## 📊 Certification Comparison <a name="certification-comparison"></a>
 
 | Provider | Entry-Level Cert | Cost | Validity | Proctored | Recognition Level |
-|:---------|:-----------------|:-----|:---------|:----------|:------------------|
+|:---------|:-----------------|:-----|:---------|:----------|:-----------------|
 | Microsoft | Azure AI Fundamentals | $99-$165 | Permanent | ✅ | ⭐⭐⭐⭐⭐ |
 | AWS | AI Practitioner | $100 | 3 years | ✅ | ⭐⭐⭐⭐⭐ |
 | Google Cloud | GenAI Leader | $99 | 2 years | ✅ | ⭐⭐⭐⭐⭐ |
@@ -222,6 +91,13 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 | SAS | AI & ML Professional | $180 | 2 years | ✅ | ⭐⭐⭐⭐ |
 | DataRobot | AI Specialist | $195 | 2 years | ✅ | ⭐⭐⭐ |
 | Meta | Digital Marketing AI | $99-$150 | 2 years | ✅ | ⭐⭐⭐ |
+| Stanford | ML & AI Certificate | $7,000+ | Permanent | ❌ | ⭐⭐⭐⭐⭐ |
+| MIT | Applied AI | $1,000+ | Permanent | ❌ | ⭐⭐⭐⭐⭐ |
+| MSI | AI Prompting | Free | Permanent | ❌ | ⭐⭐ |
+| Sanfoundry | AI Certification | Free | Permanent | ❌ | ⭐ |
+| DeepLearning.AI | ML Specialization | $39/month | Permanent | ❌ | ⭐⭐⭐⭐ |
+
+*Free until December 31, 2025
 
 ## 🤝 Contributing <a name="contributing"></a>
 
