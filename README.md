@@ -34,175 +34,42 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 
 ## 🏢 Enterprise Platforms <a name="enterprise-platforms"></a>
 
-### <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> Microsoft
-
-**Free Training**: [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
-
-**Key Certifications**:
-- 📜 [Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
-- 📜 [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-
-**Cost Range**: $99–$165 (region dependent)
-
-**Value Proposition**: Microsoft certifications are widely recognized and validate skills on Azure's extensive AI platform.
-
----
-
-### <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/> IBM
-
-**Free Training**: [IBM SkillsBuild](https://skillsbuild.org/adult-learners/explore-learning/artificial-intelligence)
-
-**Key Certifications**:
-- 📜 [IBM Applied AI Professional Certificate](https://www.ibm.com/training/badge/ibm-applied-ai-professional-certificate)
-- 📜 [IBM Artificial Intelligence Foundations](https://www.ibm.com/training/path/artificial-intelligence-foundations)
-- 📜 [IBM Machine Learning Professional Certificate](https://www.ibm.com/training/badge/ibm-machine-learning-professional-certificate)
-
-**Cost**: Free training; certification fees $200-$300
-
-**Value Proposition**: IBM's deep history in enterprise AI and Watson technology makes these certifications valuable for business applications.
-
----
-
-### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> Amazon Web Services
-
-**Free Training**: [AWS Educate](https://aws.amazon.com/education/awseducate/) and [AWS Skill Builder](https://skillbuilder.aws/)
-
-**Key Certifications**:
-- 📜 [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
-
-**Cost**: $100 (vouchers often available)
-
-**Value Proposition**: AWS certifications demonstrate expertise with the world's largest cloud platform and its AI/ML services.
-
----
-
-### <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/> Google Cloud
-
-**Free Training**: [12-day Free GenAI Training](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
-
-**Key Certifications**:
-- 📜 [Google Cloud Generative AI Leader](https://www.cloudbabble.co.uk/2025-05-14-GoogleCloudGenerativeAILeaderCertification/)
-- 📜 [Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
-
-**Cost**: $99; optional $299 for Innovators Plus subscription
-
-**Value Proposition**: Comprehensive cloud AI/ML platform with strong focus on enterprise solutions.
-
----
+| Provider | Free Training | Key Certifications | Cost | Value Proposition |
+|:---------|:-------------|:-------------------|:-----|:------------------|
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> **Microsoft** | [Microsoft Learn](https://learn.microsoft.com/en-us/training/) | 📜 [Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)<br>📜 [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification) | $99–$165 (region dependent) | Microsoft certifications are widely recognized and validate skills on Azure's extensive AI platform. |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/> **IBM** | [IBM SkillsBuild](https://skillsbuild.org/adult-learners/explore-learning/artificial-intelligence) | 📜 [IBM Applied AI Professional Certificate](https://www.ibm.com/training/badge/ibm-applied-ai-professional-certificate)<br>📜 [IBM Artificial Intelligence Foundations](https://www.ibm.com/training/path/artificial-intelligence-foundations)<br>📜 [IBM Machine Learning Professional Certificate](https://www.ibm.com/training/badge/ibm-machine-learning-professional-certificate) | Free training; certification fees $200-$300 | IBM's deep history in enterprise AI and Watson technology makes these certifications valuable for business applications. |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> **Amazon Web Services** | [AWS Educate](https://aws.amazon.com/education/awseducate/) and [AWS Skill Builder](https://skillbuilder.aws/) | 📜 [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) | $100 (vouchers often available) | AWS certifications demonstrate expertise with the world's largest cloud platform and its AI/ML services. |
+| <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/> **Google Cloud** | [12-day Free GenAI Training](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training) | 📜 [Google Cloud Generative AI Leader](https://www.cloudbabble.co.uk/2025-05-14-GoogleCloudGenerativeAILeaderCertification/)<br>📜 [Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer) | $99; optional $299 for Innovators Plus subscription | Comprehensive cloud AI/ML platform with strong focus on enterprise solutions. |
+| <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> **Oracle** | [Oracle University](https://www.oracle.com/education/training/ai/) | 📜 [OCI 2025 Generative AI Professional](https://education.oracle.com/oracle-cloud-infrastructure-2025-generative-ai-professional/pexam_1Z0-1127-25)<br>📜 [AI Vector Search Professional](https://education.oracle.com/oracle-ai-vector-search-professional/pexam_1Z0-184-25) | ~$245 (often waived during promotions) | Oracle certifications are particularly valuable in enterprise database and business application contexts. |
+| <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/> **SAP** | [SAP Learning](https://learning.sap.com/certifications) | 📜 [SAP Certified Associate – SAP Generative AI Developer](https://www.mctsonlinetraining.com/2025/01/c_aig_2412-sap-certified-associate-sap-generative-ai-developer-exam/) | Varies | Particularly valuable for business process and ERP AI integration roles. |
+| <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"/> **NVIDIA** | [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/learn/ai-learning-essentials/) | 📜 [Generative AI with LLMs Associate](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/)<br>📜 [Accelerated Computing with CUDA](https://www.nvidia.com/en-us/training/certification/cuda-associate/)<br>📜 [Deep Learning Institute Certificate](https://www.nvidia.com/en-us/training/online/) | Varies ($100-$200) | NVIDIA certifications demonstrate expertise in hardware-accelerated AI and are highly respected in technical roles. |
 
 ## 🎓 Academic Institutions <a name="academic-institutions"></a>
 
-### <img src="https://img.shields.io/badge/Stanford-8C1515?style=flat-square&logoColor=white" alt="Stanford"/> Stanford University
-
-**Free Training**: [Stanford Online - Machine Learning](https://online.stanford.edu/artificial-intelligence/free-content)
-
-**Key Certifications**:
-- 📜 [Stanford Professional Certificate in Machine Learning and AI](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
-
-**Cost**: Individual course certificates free; Professional Certificate $7,000-$12,000
-
-**Value Proposition**: Prestigious academic credential from a leading AI research institution.
-
----
-
-### <img src="https://img.shields.io/badge/MIT-000000?style=flat-square&logoColor=white" alt="MIT"/> MIT
-
-**Free Training**: [MIT OpenCourseWare - AI](https://ocw.mit.edu/search/?q=artificial%20intelligence)
-
-**Key Certifications**:
-- 📜 [MIT Professional Certificate in Machine Learning & AI](https://professional.mit.edu/course-catalog/machine-learning-artificial-intelligence-courses)
-- 📜 [MIT xPRO Applied AI for Industries](https://mitxpro.mit.edu/courses/course-v1:MITxPRO+ApplicationsOfAI+R1/)
-
-**Cost**: Individual course certificates free with financial aid; Professional Certificate $1,000-$4,000
-
-**Value Proposition**: World-class technical education with strong industry recognition.
-
----
-
-### <img src="https://img.shields.io/badge/Berkeley-003262?style=flat-square&logoColor=white" alt="Berkeley"/> UC Berkeley
-
-**Free Training**: [Berkeley AI Open Courses](https://ai.berkeley.edu/materials.html)
-
-**Key Certifications**:
-- 📜 [Berkeley Professional Certificate in Artificial Intelligence](https://em-executive.berkeley.edu/professional-certificate-artificial-intelligence)
-- 📜 [Berkeley AI Fundamentals for Business](https://executive.berkeley.edu/programs/artificial-intelligence)
-
-**Cost**: Some courses free; Professional Certificate $5,000-$8,000
-
-**Value Proposition**: Strong academic foundation with Silicon Valley industry connections.
-
----
-
-### <img src="https://img.shields.io/badge/DeepLearning.AI-0AB7FF?style=flat-square&logoColor=white" alt="DeepLearning.AI"/> DeepLearning.AI
-
-**Free Training**: [DeepLearning.AI Free Courses](https://www.deeplearning.ai/courses/)
-
-**Key Certifications**:
-- 📜 [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
-- 📜 [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)
-- 📜 [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
-
-**Cost**: Free learning; certificates $39-$79/month subscription
-
-**Value Proposition**: Founded by Andrew Ng, focusing on practical deep learning skills.
+| Institution | Free Training | Key Certifications | Cost | Value Proposition |
+|:------------|:-------------|:-------------------|:-----|:------------------|
+| <img src="https://img.shields.io/badge/Stanford-8C1515?style=flat-square&logoColor=white" alt="Stanford"/> **Stanford University** | [Stanford Online - Machine Learning](https://online.stanford.edu/artificial-intelligence/free-content) | 📜 [Stanford Professional Certificate in Machine Learning and AI](https://online.stanford.edu/programs/artificial-intelligence-professional-program) | Individual course certificates free; Professional Certificate $7,000-$12,000 | Prestigious academic credential from a leading AI research institution. |
+| <img src="https://img.shields.io/badge/MIT-000000?style=flat-square&logoColor=white" alt="MIT"/> **MIT** | [MIT OpenCourseWare - AI](https://ocw.mit.edu/search/?q=artificial%20intelligence) | 📜 [MIT Professional Certificate in Machine Learning & AI](https://professional.mit.edu/course-catalog/machine-learning-artificial-intelligence-courses)<br>📜 [MIT xPRO Applied AI for Industries](https://mitxpro.mit.edu/courses/course-v1:MITxPRO+ApplicationsOfAI+R1/) | Individual course certificates free with financial aid; Professional Certificate $1,000-$4,000 | World-class technical education with strong industry recognition. |
+| <img src="https://img.shields.io/badge/Berkeley-003262?style=flat-square&logoColor=white" alt="Berkeley"/> **UC Berkeley** | [Berkeley AI Open Courses](https://ai.berkeley.edu/materials.html) | 📜 [Berkeley Professional Certificate in Artificial Intelligence](https://em-executive.berkeley.edu/professional-certificate-artificial-intelligence)<br>📜 [Berkeley AI Fundamentals for Business](https://executive.berkeley.edu/programs/artificial-intelligence) | Some courses free; Professional Certificate $5,000-$8,000 | Strong academic foundation with Silicon Valley industry connections. |
+| <img src="https://img.shields.io/badge/DeepLearning.AI-0AB7FF?style=flat-square&logoColor=white" alt="DeepLearning.AI"/> **DeepLearning.AI** | [DeepLearning.AI Free Courses](https://www.deeplearning.ai/courses/) | 📜 [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)<br>📜 [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)<br>📜 [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/) | Free learning; certificates $39-$79/month subscription | Founded by Andrew Ng, focusing on practical deep learning skills. |
 
 ---
 
 ## 💼 Industry Providers <a name="industry-providers"></a>
 
-### <img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel"/> Intel
-
-**Free Training**: [Intel AI Academy](https://www.intel.com/content/www/us/en/developer/tools/ai-academy/overview.html)
-
-**Key Certifications**:
-- 📜 [Intel Edge AI Certification](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html)
-- 📜 [Intel oneAPI AI Analytics Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)
-
-**Cost**: $149-$249
-
-**Value Proposition**: Specializes in hardware-optimized AI solutions and edge computing implementations.
-
----
-
-### <img src="https://img.shields.io/badge/SAS-0C295F?style=flat-square&logo=sas&logoColor=white" alt="SAS"/> SAS Institute
-
-**Free Training**: [SAS AI Learning Path](https://www.sas.com/en_us/training/offers/free-training.html)
-
-**Key Certifications**:
-- 📜 [SAS AI and Machine Learning Professional](https://www.sas.com/en_us/certification/credentials/advanced-analytics/ai-ml.html)
-- 📜 [SAS Certified Data Scientist](https://www.sas.com/en_us/certification/credentials/data-management/data-scientist.html)
-
-**Cost**: $180 per exam
-
-**Value Proposition**: Highly valued in industries like finance, healthcare, and government that use SAS analytics.
-
----
-
-### <img src="https://img.shields.io/badge/DataRobot-67AE0D?style=flat-square&logoColor=white" alt="DataRobot"/> DataRobot
-
-**Free Training**: [DataRobot University Free Courses](https://www.datarobot.com/university/)
-
-**Key Certifications**:
-- 📜 [DataRobot Certified AI Specialist](https://www.datarobot.com/university/certification/)
-- 📜 [DataRobot Certified Model Ops Specialist](https://www.datarobot.com/university/certification/)
-
-**Cost**: $195-$295
-
-**Value Proposition**: Ideal for business analysts and data scientists using automated machine learning platforms.
-
----
-
-### <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/> Hugging Face
-
-**Free Training**: [Hugging Face Course](https://huggingface.co/learn)
-
-**Key Certifications**:
-- 📜 [NLP Developer Certification](https://huggingface.co/learn/certification)
-- 📜 [Generative AI Engineer](https://huggingface.co/learn/certification/generative-ai)
-
-**Cost**: $299 per exam
-
-**Value Proposition**: Directly applicable to modern NLP and generative AI projects using the most widely-used open-source libraries.
+| Provider | Free Training | Key Certifications | Cost | Value Proposition |
+|:---------|:-------------|:-------------------|:-----|:------------------|
+| <img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel"/> **Intel** | [Intel AI Academy](https://www.intel.com/content/www/us/en/developer/tools/ai-academy/overview.html) | 📜 [Intel Edge AI Certification](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html)<br>📜 [Intel oneAPI AI Analytics Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html) | $149-$249 | Specializes in hardware-optimized AI solutions and edge computing implementations. |
+| <img src="https://img.shields.io/badge/SAS-0C295F?style=flat-square&logo=sas&logoColor=white" alt="SAS"/> **SAS Institute** | [SAS AI Learning Path](https://www.sas.com/en_us/training/offers/free-training.html) | 📜 [SAS AI and Machine Learning Professional](https://www.sas.com/en_us/certification/credentials/advanced-analytics/ai-ml.html)<br>📜 [SAS Certified Data Scientist](https://www.sas.com/en_us/certification/credentials/data-management/data-scientist.html) | $180 per exam | Highly valued in industries like finance, healthcare, and government that use SAS analytics. |
+| <img src="https://img.shields.io/badge/DataRobot-67AE0D?style=flat-square&logoColor=white" alt="DataRobot"/> **DataRobot** | [DataRobot University Free Courses](https://www.datarobot.com/university/) | 📜 [DataRobot Certified AI Specialist](https://www.datarobot.com/university/certification/)<br>📜 [DataRobot Certified Model Ops Specialist](https://www.datarobot.com/university/certification/) | $195-$295 | Ideal for business analysts and data scientists using automated machine learning platforms. |
+| <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/> **Hugging Face** | [Hugging Face Course](https://huggingface.co/learn) | 📜 [NLP Developer Certification](https://huggingface.co/learn/certification)<br>📜 [Generative AI Engineer](https://huggingface.co/learn/certification/generative-ai) | $299 per exam | Directly applicable to modern NLP and generative AI projects using the most widely-used open-source libraries. |
+| <img src="https://img.shields.io/badge/Meta-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta"/> **Meta (Facebook)** | [Meta Blueprint](https://www.pearsonvue.com/us/en/meta.html) | 📜 Digital Marketing AI use cases | $99–$150 | Valuable for social media marketers and those working with Meta's AI tools. |
+| <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/> **Salesforce** | [Trailhead AI Path](https://trailhead.salesforce.com) | 📜 [AI Associate](https://trailhead.salesforce.com/credentials/aiassociate)<br>📜 [AI Specialist](https://trailhead.salesforce.com/credentials/aispecialist)<br>📜 [Agentforce Specialist](https://trailhead.salesforce.com/credentials/agentforcespecialist) | Free until Dec 31, 2025; retakes $50–$100 | Essential for CRM professionals and those working in sales technology. |
+| <img src="https://img.shields.io/badge/ISACA-0077B5?style=flat-square&logoColor=white" alt="ISACA"/> **ISACA** | - | 📜 [AI Fundamentals Certificate](https://www.isaca.org/credentialing/artificial-intelligence-fundamentals-certificate)<br>📜 [Certified Artificial Intelligence Auditor (CAIA)](https://www.isaca.org/credentialing/caia)<br>📜 [Certified Information Systems Auditor (CISA) with AI Specialization](https://www.isaca.org/credentialing/cisa) | $120-$575 | Respected in governance, risk, compliance, and AI ethics roles. |
+| <img src="https://img.shields.io/badge/ARTiBA-FF6B6B?style=flat-square&logoColor=white" alt="ARTiBA"/> **ARTiBA** | - | 📜 [Artificial Intelligence Engineer (AiE)](https://www.artiba.org/artiba-certfication-exams)<br>📜 [AI Product Manager Certification](https://www.artiba.org/artificial-intelligence-product-manager)<br>📜 [AI for Business Leaders](https://www.artiba.org/artificial-intelligence-business-leaders) | $250-$450 | Industry-specific AI engineering validation covering both technical and management roles. |
+| <img src="https://img.shields.io/badge/MSI-333333?style=flat-square&logoColor=white" alt="MSI"/> **Management and Strategy Institute** | [AI Prompting Essentials Certification](https://www.msicertified.com/free-training/ai-prompting-essentials-certification/) | - | Free | Focused on practical prompt engineering skills. |
+| <img src="https://img.shields.io/badge/Sanfoundry-2E8B57?style=flat-square&logoColor=white" alt="Sanfoundry"/> **Sanfoundry** | AI concepts, quizzes, exams | 📜 [Artificial Intelligence Certification](https://www.sanfoundry.com/artificial-intelligence-certification/) | Free | Good entry point for beginners. |
+| <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> **OpenAI** | [OpenAI Academy](https://academy.openai.com/) | Currently no formal certifications offered | - | Direct knowledge from a leading AI research organization. |
 
 ---
 
