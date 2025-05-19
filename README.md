@@ -6,9 +6,9 @@
 
 ![AI Certification Banner](https://img.shields.io/badge/AI%20Certifications-Enterprise%20Grade-blue?style=for-the-badge&logo=artificial-intelligence)
 
-[![Stars](https://img.shields.io/github/stars/Mizokuiam/Free-to-Learn-AI-Certifications-Hub.git?style=social)](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub.git/stargazers)
-[![Forks](https://img.shields.io/github/forks/Mizokuiam/Free-to-Learn-AI-Certifications-Hub.git?style=social)](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub.git/network/members)
-[![Issues](https://img.shields.io/github/issues/Mizokuiam/Free-to-Learn-AI-Certifications-Hub.git?style=social)](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub.git/issues)
+[![Stars](https://img.shields.io/github/stars/Mizokuiam/Free-to-Learn-AI-Certifications-Hub?style=social)](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub/stargazers)
+[![Forks](https://img.shields.io/github/forks/Mizokuiam/Free-to-Learn-AI-Certifications-Hub?style=social)](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub/network/members)
+[![Issues](https://img.shields.io/github/issues/Mizokuiam/Free-to-Learn-AI-Certifications-Hub?style=social)](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub/issues)
 
 **A curated collection of enterprise-grade AI learning platforms offering free training with paid, industry-recognized certifications**
 
@@ -47,6 +47,48 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 
 ---
 
+### <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/> IBM
+
+**Free Training**: [IBM SkillsBuild](https://skillsbuild.org/adult-learners/explore-learning/artificial-intelligence)
+
+**Key Certifications**:
+- 📜 [IBM Applied AI Professional Certificate](https://www.ibm.com/training/badge/ibm-applied-ai-professional-certificate)
+- 📜 [IBM Artificial Intelligence Foundations](https://www.ibm.com/training/path/artificial-intelligence-foundations)
+- 📜 [IBM Machine Learning Professional Certificate](https://www.ibm.com/training/badge/ibm-machine-learning-professional-certificate)
+
+**Cost**: Free training; certification fees $200-$300
+
+**Value Proposition**: IBM's deep history in enterprise AI and Watson technology makes these certifications valuable for business applications.
+
+---
+
+### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> Amazon Web Services
+
+**Free Training**: [AWS Educate](https://aws.amazon.com/education/awseducate/) and [AWS Skill Builder](https://skillbuilder.aws/)
+
+**Key Certifications**:
+- 📜 [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
+
+**Cost**: $100 (vouchers often available)
+
+**Value Proposition**: AWS certifications demonstrate expertise with the world's largest cloud platform and its AI/ML services.
+
+---
+
+### <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/> Google Cloud
+
+**Free Training**: [12-day Free GenAI Training](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
+
+**Key Certifications**:
+- 📜 [Google Cloud Generative AI Leader](https://www.cloudbabble.co.uk/2025-05-14-GoogleCloudGenerativeAILeaderCertification/)
+- 📜 [Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
+
+**Cost**: $99; optional $299 for Innovators Plus subscription
+
+**Value Proposition**: Comprehensive cloud AI/ML platform with strong focus on enterprise solutions.
+
+---
+
 ## 🎓 Academic Institutions <a name="academic-institutions"></a>
 
 ### <img src="https://img.shields.io/badge/Stanford-8C1515?style=flat-square&logoColor=white" alt="Stanford"/> Stanford University
@@ -76,6 +118,20 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 
 ---
 
+### <img src="https://img.shields.io/badge/Berkeley-003262?style=flat-square&logoColor=white" alt="Berkeley"/> UC Berkeley
+
+**Free Training**: [Berkeley AI Open Courses](https://ai.berkeley.edu/materials.html)
+
+**Key Certifications**:
+- 📜 [Berkeley Professional Certificate in Artificial Intelligence](https://em-executive.berkeley.edu/professional-certificate-artificial-intelligence)
+- 📜 [Berkeley AI Fundamentals for Business](https://executive.berkeley.edu/programs/artificial-intelligence)
+
+**Cost**: Some courses free; Professional Certificate $5,000-$8,000
+
+**Value Proposition**: Strong academic foundation with Silicon Valley industry connections.
+
+---
+
 ### <img src="https://img.shields.io/badge/DeepLearning.AI-0AB7FF?style=flat-square&logoColor=white" alt="DeepLearning.AI"/> DeepLearning.AI
 
 **Free Training**: [DeepLearning.AI Free Courses](https://www.deeplearning.ai/courses/)
@@ -88,20 +144,6 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 **Cost**: Free learning; certificates $39-$79/month subscription
 
 **Value Proposition**: Founded by Andrew Ng, focusing on practical deep learning skills.
-
----
-
-### <img src="https://img.shields.io/badge/Berkeley-003262?style=flat-square&logoColor=white" alt="Berkeley"/> UC Berkeley
-
-**Free Training**: [Berkeley AI Open Courses](https://ai.berkeley.edu/materials.html)
-
-**Key Certifications**:
-- 📜 [Berkeley Professional Certificate in Artificial Intelligence](https://em-executive.berkeley.edu/professional-certificate-artificial-intelligence)
-- 📜 [Berkeley AI Fundamentals for Business](https://executive.berkeley.edu/programs/artificial-intelligence)
-
-**Cost**: Some courses free; Professional Certificate $5,000-$8,000
-
-**Value Proposition**: Strong academic foundation with Silicon Valley industry connections.
 
 ---
 
@@ -163,42 +205,21 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 
 ---
 
-## 📋 Overview <a name="overview"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
-This repository compiles enterprise-grade platforms offering **free AI training resources** with options to earn **paid, proctored, and industry-recognized certificates**. Unlike general educational platforms (Coursera, Udemy, edX), these certifications come directly from technology leaders and are widely recognized throughout the industry.
+We welcome contributions! Please see our [Contributing Guidelines](contributing.md) for details on how to add new certification providers or improve existing documentation.
 
-> 💡 **Why This Matters**: Enterprise certifications demonstrate practical skills with tools currently used in industry, potentially giving you an edge in the job market.
+## 📜 License <a name="license"></a>
 
----
+This project is licensed under the MIT License - see the [license.txt](license.txt) file for details.
 
-## 🏢 Enterprise Platforms <a name="enterprise-platforms"></a>
+<div align="center">
 
-### <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> Microsoft
+**⭐ Star this repository if you find it helpful! ⭐**
 
-**Free Training**: [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+Last updated: May 19, 2025
 
-**Key Certifications**:
-- 📜 [Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
-- 📜 [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-
-**Cost Range**: $99–$165 (region dependent)
-
-**Value Proposition**: Microsoft certifications are widely recognized and validate skills on Azure's extensive AI platform.
-
----
-
-### <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/> IBM
-
-**Free Training**: [IBM SkillsBuild](https://skillsbuild.org/adult-learners/explore-learning/artificial-intelligence)
-
-**Key Certifications**:
-- 📜 [IBM Applied AI Professional Certificate](https://www.ibm.com/training/badge/ibm-applied-ai-professional-certificate)
-- 📜 [IBM Artificial Intelligence Foundations](https://www.ibm.com/training/path/artificial-intelligence-foundations)
-- 📜 [IBM Machine Learning Professional Certificate](https://www.ibm.com/training/badge/ibm-machine-learning-professional-certificate)
-
-**Cost**: Free training; certification fees $200-$300
-
-**Value Proposition**: IBM's deep history in enterprise AI and Watson technology makes these certifications valuable for business applications.
+</div>
 
 ---
 
