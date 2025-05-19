@@ -99,17 +99,7 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 
 *Free until December 31, 2025
 
-## 🤝 Contributing <a name="contributing"></a>
-
-We welcome contributions! Please see our [Contributing Guidelines](contributing.md) for details on how to add new certification providers or improve existing documentation.
-
-## 📜 License <a name="license"></a>
-
-This project is licensed under the MIT License - see the [license.txt](license.txt) file for details.
-
-<div align="center">
-
-## 🎯 How to Choose <a name="how-to-choose"></a>
+## 🎥 How to Choose <a name="how-to-choose"></a>
 
 When selecting an AI certification, consider:
 
@@ -120,21 +110,6 @@ When selecting an AI certification, consider:
 5. **⏱️ Time commitment**: Entry-level certs require ~20-40 hours of study
 
 > **Pro tip**: Many employers offer certification reimbursement programs!
-
----
-
-## 🔄 Keep Learning <a name="keep-learning"></a>
-
-<div align="center">
-
-| Resource Type | Description | Link |
-|:--------------|:------------|:-----|
-| 📚 Study Materials | Free preparation guides | [AI Study Resources](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub/wiki/resources) |
-| 💬 Community | Join our Discord | [Discord Server](https://discord.gg/example) |
-| 📅 Events | AI certification workshops | [Upcoming Events](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub/wiki/events) |
-| 🧪 Practice Tests | Sample questions | [Practice Area](https://github.com/Mizokuiam/Free-to-Learn-AI-Certifications-Hub/wiki/practice) |
-
-</div>
 
 ---
 
