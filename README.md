@@ -18,6 +18,7 @@
 [🏢 Enterprise Platforms](#enterprise-platforms) | 
 [💼 Industry Providers](#industry-providers) | 
 [🎓 Academic Institutions](#academic-institutions) | 
+[📊 Certification Comparison](#certification-comparison) | 
 [🤝 Contributing](#contributing) | 
 [📜 License](#license)
 
@@ -205,51 +206,6 @@ This repository compiles enterprise-grade platforms offering **free AI training 
 
 ---
 
-## 🤝 Contributing <a name="contributing"></a>
-
-We welcome contributions! Please see our [Contributing Guidelines](contributing.md) for details on how to add new certification providers or improve existing documentation.
-
-## 📜 License <a name="license"></a>
-
-This project is licensed under the MIT License - see the [license.txt](license.txt) file for details.
-
-<div align="center">
-
-**⭐ Star this repository if you find it helpful! ⭐**
-
-Last updated: May 19, 2025
-
-</div>
-
----
-
-### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> Amazon Web Services
-
-**Free Training**: [AWS Educate](https://aws.amazon.com/education/awseducate/) and [AWS Skill Builder](https://skillbuilder.aws/)
-
-**Key Certifications**:
-- 📜 [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
-
-**Cost**: $100 (vouchers often available)
-
-**Value Proposition**: AWS certifications demonstrate expertise with the world's largest cloud platform and its AI/ML services.
-
----
-
-### <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/> Google Cloud
-
-**Free Training**: [12-day Free GenAI Training](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
-
-**Key Certifications**:
-- 📜 [Google Cloud Generative AI Leader](https://www.cloudbabble.co.uk/2025-05-14-GoogleCloudGenerativeAILeaderCertification/)
-- 📜 [Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
-
-**Cost**: $99; optional $299 for Innovators Plus subscription
-
-**Value Proposition**: Demonstrates proficiency with Google's cutting-edge AI research and cloud implementation.
-
----
-
 ### <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> Oracle
 
 **Free Training**: [Oracle University](https://www.oracle.com/education/training/ai/)
@@ -399,15 +355,16 @@ Last updated: May 19, 2025
 | SAS | AI & ML Professional | $180 | 2 years | ✅ | ⭐⭐⭐⭐ |
 | DataRobot | AI Specialist | $195 | 2 years | ✅ | ⭐⭐⭐ |
 | Meta | Digital Marketing AI | $99-$150 | 2 years | ✅ | ⭐⭐⭐ |
-| Stanford | ML & AI Certificate | $7,000+ | Permanent | ❌ | ⭐⭐⭐⭐⭐ |
-| MIT | Applied AI | $1,000+ | Permanent | ❌ | ⭐⭐⭐⭐⭐ |
-| DeepLearning.AI | ML Specialization | $39/month | Permanent | ❌ | ⭐⭐⭐⭐ |
-| MSI | AI Prompting | Free | Permanent | ❌ | ⭐⭐ |
-| Sanfoundry | AI Certification | Free | Permanent | ❌ | ⭐ |
 
-*Free until December 31, 2025
+## 🤝 Contributing <a name="contributing"></a>
 
----
+We welcome contributions! Please see our [Contributing Guidelines](contributing.md) for details on how to add new certification providers or improve existing documentation.
+
+## 📜 License <a name="license"></a>
+
+This project is licensed under the MIT License - see the [license.txt](license.txt) file for details.
+
+<div align="center">
 
 ## 🎯 How to Choose <a name="how-to-choose"></a>
 
